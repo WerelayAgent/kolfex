@@ -3,6 +3,6 @@
   "buildCommand": "exit 0",
   "installCommand": "exit 0",
   "outputDirectory": ".",
-  "cleanUrls": true,
+  "cleanUrls": false,
   "trailingSlash": false
 }
