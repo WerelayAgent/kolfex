@@ -27,7 +27,7 @@ const items = [
   'points',
   'how-it-works',
   'docs',
-  '_next'
+  'kolfx'
 ];
 
 for (const item of items) {
