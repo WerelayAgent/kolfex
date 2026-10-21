@@ -1,8 +1,4 @@
 {
-  "framework": null,
-  "buildCommand": "exit 0",
-  "installCommand": "exit 0",
-  "outputDirectory": ".",
-  "cleanUrls": false,
-  "trailingSlash": false
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "outputDirectory": ".vercel/output"
 }

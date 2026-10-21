@@ -4,6 +4,6 @@
   "private": true,
   "description": "Kolfex ($KFX) - Prediction markets on Solana & pump.fun KOLs. Back top traders with SOL.",
   "scripts": {
-    "build": "echo 'No build required for static site'"
+    "build": "node build.js"
   }
 }
