@@ -1,0 +1,19 @@
+{
+  "name": "kolfex",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Kolfex ($KFX) - Prediction markets on Solana & pump.fun KOLs. Back top traders with SOL.",
+  "scripts": {
+    "start": "npx serve -l 3000 ."
+  },
+  "keywords": [
+    "solana",
+    "pumpfun",
+    "prediction-market",
+    "kolfex",
+    "kols",
+    "crypto"
+  ],
+  "author": "Kolfex Team",
+  "license": "MIT"
+}
